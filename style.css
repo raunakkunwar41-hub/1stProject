@@ -1,0 +1,31 @@
+.navig{
+    background-color: black;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+.bg{
+    display: flex;
+    background-color: rgb(163, 209, 249);
+    align-items: center;
+    flex-direction: column;
+    height: fit-content;
+    width:auto;
+
+    
+}
+.box{
+    border: 2px solid black;
+    width: fit-content;
+    margin: 10px;
+        
+}
+.skill{
+    display: flex;
+    
+}
